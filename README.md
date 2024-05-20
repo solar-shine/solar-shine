@@ -1,4 +1,4 @@
-- Hi, I’m @solar-shine
+- Hi, I’m solarshine or just sol
 - I’m interested in game dev!
 - I’m currently learning Godot and working on Scratch projects as well
 - Email me at solarshine.59@proton.me
